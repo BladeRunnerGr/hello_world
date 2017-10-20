@@ -1,2 +1,1 @@
-# hello_world
-the_first
+hello i am Greg. I want to practice on Git to make a living...
